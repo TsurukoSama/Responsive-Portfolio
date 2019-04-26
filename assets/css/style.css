@@ -108,6 +108,7 @@ footer {
   background: #666666;
   border-top: 8px solid #4aaaa5;
   max-height: 100%;
+  opacity: 0.8;
 }
 
 h3, h2 {
