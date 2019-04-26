@@ -107,7 +107,11 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
+<<<<<<< HEAD
   max-height: 100%;
+=======
+  height: 100px;
+>>>>>>> 6243c99b12bee9a3c44ce973de6b0be455cbbfe1
 }
 
 h3, h2 {
